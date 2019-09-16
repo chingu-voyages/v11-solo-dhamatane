@@ -20,7 +20,7 @@ class About extends Component {
             </div>
             <div className="col-md-6">
               <div className="about_part_img">
-                <img src="images/about_part_img.png" alt="" />
+                <img src="images/about_part_img.jpg" alt="" />
               </div>
             </div>
           </div>
