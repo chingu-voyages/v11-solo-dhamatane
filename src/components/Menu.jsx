@@ -5,7 +5,8 @@ import SocialLinks from './SocialLinks';
 class Menu extends Component {
   render() {
     return(
-      <nav className="navbar navbar-expand-lg navbar-light">
+      <div className="container">
+        <nav className="navbar navbar-expand-lg navbar-light">
         <Logo />
         <button
           className="navbar-toggler"
@@ -40,6 +41,7 @@ class Menu extends Component {
         </div>
         <SocialLinks />          
       </nav>
+      </div>
     );
   }
 }
