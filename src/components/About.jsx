@@ -9,12 +9,10 @@ class About extends Component {
             <div className="col-md-6">
               <div className="about_part_text">
                 <h5>About Us</h5>
-                <h2>Digital design and development company</h2>
-                <p>
-                  There winged grass midst moving earth seed herb fifth you're
-                  multiply, you divide cattle stars first cattle was had spirit
-                  you're thing, night darkness. Which itself stars creature.
-                </p>
+                <h2>Mooya a start-up that aims to make digitalization a reality in Africa, more precisely in Ivory Coast</h2>
+                {/* <p>
+                Mooya a start-up which aims to make digitization and digitization a reality in Africa, more precisely in Ivory Coast
+                </p> */}
                 <a href="#" className="btn_1">explore us</a>
               </div>
             </div>
