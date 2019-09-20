@@ -6,7 +6,7 @@ class SingleService extends Component {
       <div className="col-sm-6 col-xl-4">
         <div className="single_feature">
           <div className="single_service">
-            <span>01</span>
+            {/* <span>01</span> */}
             <h4>
               User experience <br />
               design

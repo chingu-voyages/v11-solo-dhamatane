@@ -5,7 +5,7 @@ class Service extends Component {
   render() {
     return (
       <div>
-        <section className="our_service">
+        <section className="our_service" id="services">
           <div className="container">
             <div className="row">
               <SingleService />

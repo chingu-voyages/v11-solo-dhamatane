@@ -3,7 +3,7 @@ import React, {Component} from 'react';
 class About extends Component {
   render() {
     return (
-      <section className="about_part section_padding">
+      <section className="about_part section_padding" id="about">
         <div className="container">
           <div className="row align-items-center justify-content-between">
             <div className="col-md-6">

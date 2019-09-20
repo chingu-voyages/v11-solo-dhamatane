@@ -26,16 +26,16 @@ class Menu extends Component {
         >
           <ul className="navbar-nav align-items-center">
             <li className="nav-item">
-              <a className="nav-link" href="index.html">Home</a>
+              <a className="nav-link" href="#">Home</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="about.html">About</a>
+              <a className="nav-link" href="#about">About</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="services.html">services</a>
+              <a className="nav-link" href="#services">services</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="contact.html">Contact</a>
+              <a className="nav-link" href="#contact">Contact</a>
             </li>
           </ul>
         </div>

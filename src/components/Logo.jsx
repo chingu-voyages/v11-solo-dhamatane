@@ -4,7 +4,7 @@ class Logo extends Component {
   render() {
     return(
       <a className="navbar-brand" href="index.html">
-        <img src="images/logo.png" alt="logo" />
+        MOOYA.
       </a>
     );
   }
