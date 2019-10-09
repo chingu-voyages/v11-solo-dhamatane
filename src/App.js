@@ -4,6 +4,7 @@ import Header from './components/Header';
 import About from './components/About';
 import Service from './components/Service';
 import CtaPart from './components/CtaPart';
+import Contact from './components/Contact';
 
 class App extends Component {
   render() {
@@ -14,6 +15,7 @@ class App extends Component {
         <About />
         <Service />
         <CtaPart />
+        <Contact />
       </div>
     );
   }
