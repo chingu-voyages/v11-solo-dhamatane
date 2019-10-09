@@ -455,7 +455,7 @@ ul {
 /* line 35, ../../sass/_button.scss */
 .btn_1:hover {
   color: #fff !important;
-  background-color: #316fb5;
+  background-color: #447ebc;
 }
 @media (max-width: 576px) {
   /* line 24, ../../sass/_button.scss */
@@ -1947,7 +1947,7 @@ ul {
 @media (max-width: 991px) {
   /* line 38, ../../sass/_menu.scss */
   .main_menu .main-menu-item ul li .nav-link {
-    color: #316fb5;
+    color: #447ebc;
   }
 }
 /* line 50, ../../sass/_menu.scss */
@@ -2115,7 +2115,7 @@ ul {
   top: 0;
   width: 100%;
   height: 100%;
-  background-color: #316fb5;
+  background-color: #447ebc;
   z-index: -1;
   opacity: .7;
 }
@@ -2405,7 +2405,7 @@ ul {
 }
 /* line 117, ../../sass/_our_service.scss */
 .our_service .single_service:hover {
-  background-color: #316fb5;
+  background-color: #447ebc;
 }
 /* line 119, ../../sass/_our_service.scss */
 .our_service .single_service:hover h4 {
@@ -3014,7 +3014,7 @@ ul {
   text-align: center;
   border-radius: 50%;
   color: #fff;
-  background-color: #316fb5;
+  background-color: #447ebc;
   display: inline-block;
   font-size: 30px;
   padding-left: 5px;
@@ -3117,11 +3117,11 @@ ul {
   display: inline-block;
   background: #e9eef2;
   margin: 0 5px;
-  border: 1px solid #316fb5;
+  border: 1px solid #447ebc;
 }
 /* line 75, ../../sass/_review.scss */
 .review_part .owl-dots button.owl-dot.active {
-  background-color: #316fb5;
+  background-color: #447ebc;
 }
 /* line 78, ../../sass/_review.scss */
 .review_part .owl-dots button.owl-dot:focus {
@@ -3164,7 +3164,7 @@ ul {
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
-  padding: 170px 0px;
+  padding: 170px 0px 0px 0px;
 }
 @media (max-width: 576px) {
   /* line 2, ../../sass/_cta.scss */
@@ -3192,7 +3192,7 @@ ul {
   top: 0;
   width: 100%;
   height: 100%;
-  background-color: #316fb5;
+  background-color: #447ebc;
   opacity: 0.9;
   z-index: -1;
 }
@@ -3656,7 +3656,7 @@ ul {
 }
 /* line 137, ../../sass/_footer.scss */
 .footer-area .social_icon a:hover {
-  color: #316fb5;
+  color: #447ebc;
 }
 /* line 145, ../../sass/_footer.scss */
 .footer-area .footer_3 .footer_img .single_footer_img {
