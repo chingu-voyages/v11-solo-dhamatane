@@ -5,6 +5,8 @@
   background-image: linear-gradient(to left, #ee390f 0%, #f9b700 51%, #ee390f 100%);
 }
 
+html {scroll-behavior: smooth;}
+
 /**************** extend css start ****************/
 /**************** common css start ****************/
 /* line 3, ../../sass/_common.scss */

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/v11-solo-dhamatane/precache-manifest.03cfa90e89394152e2b7c082f711e632.js"
+  "/v11-solo-dhamatane/precache-manifest.b87498f4ddb7f9fde73ce33a7f5ffbc6.js"
 );
 
 self.addEventListener('message', (event) => {

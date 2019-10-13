@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/v11-solo-dhamatane/static/css/main.34de6062.chunk.css",
-    "main.js": "/v11-solo-dhamatane/static/js/main.466404cd.chunk.js",
-    "main.js.map": "/v11-solo-dhamatane/static/js/main.466404cd.chunk.js.map",
+    "main.js": "/v11-solo-dhamatane/static/js/main.8414608e.chunk.js",
+    "main.js.map": "/v11-solo-dhamatane/static/js/main.8414608e.chunk.js.map",
     "runtime~main.js": "/v11-solo-dhamatane/static/js/runtime~main.fe899c36.js",
     "runtime~main.js.map": "/v11-solo-dhamatane/static/js/runtime~main.fe899c36.js.map",
     "static/js/2.3392cb3d.chunk.js": "/v11-solo-dhamatane/static/js/2.3392cb3d.chunk.js",
     "static/js/2.3392cb3d.chunk.js.map": "/v11-solo-dhamatane/static/js/2.3392cb3d.chunk.js.map",
     "index.html": "/v11-solo-dhamatane/index.html",
-    "precache-manifest.03cfa90e89394152e2b7c082f711e632.js": "/v11-solo-dhamatane/precache-manifest.03cfa90e89394152e2b7c082f711e632.js",
+    "precache-manifest.b87498f4ddb7f9fde73ce33a7f5ffbc6.js": "/v11-solo-dhamatane/precache-manifest.b87498f4ddb7f9fde73ce33a7f5ffbc6.js",
     "service-worker.js": "/v11-solo-dhamatane/service-worker.js",
     "static/css/main.34de6062.chunk.css.map": "/v11-solo-dhamatane/static/css/main.34de6062.chunk.css.map"
   }
