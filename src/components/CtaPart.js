@@ -3,13 +3,12 @@ import React, {Component} from 'react';
 class CtaPart extends Component {
   render() {
     return (
-      <div class="cta_part">
-        <div class="container">
-          <div class="row justify-content-center">
-            <div class="col-lg-7">
-              <div class="cta_iner">
+      <div className="cta_part">
+        <div className="container">
+          <div className="row justify-content-center">
+            <div className="col-lg-7">
+              <div className="cta_iner">
                 <h1>Let’s create something awesome together</h1>
-                {/* <a href="#" class="btn_1">Discuss project</a> */}
               </div>
             </div>
           </div>

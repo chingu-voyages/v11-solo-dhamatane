@@ -31,7 +31,7 @@ class Contact extends Component {
                       <input type="text" id="phone" name="phone" placeholder="Your phone number *" className="form-control"/>
                     </div>
 
-                    <div class="form-group">
+                    <div className="form-group">
                       <input type="submit" name="btnSubmit" className="btn btn-danger text-left" value="Send Message" />
                     </div>
                   </div>
