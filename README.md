@@ -16,3 +16,6 @@ It is a landing page that presents the services of a start-up called mooya
 * [SASS](https://sass-lang.com/))
 * [Compass](http://compass-style.org/)
 * Fonts from [Google Fonts](https://fonts.google.com/)
+
+## Special thanks to
+All [chingu team](https://www.chingu.io/) and especially to [Jim Medlock](https://github.com/jdmedlock)
